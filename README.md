@@ -1,2 +1,2 @@
 # MyNFTCollection
-ERC721 NFT for TalentProtocol
+Basit ERC721 NFT kontratı
